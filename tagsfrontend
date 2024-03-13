@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Biográfia em laços</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+</head>
+<body>
+    <h1>Iremos apresentar uma biográfia </h1>
+    <h2>Será sobre Chico Boarque</h2>
+    <p> Será sobre Chico boaque <a href="https://s2-g1.glbimg.com/x2gtgiHgjBa_LOyaIzvSHdk33xY=/0x0:1167x894/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/Z/e/1vyGFCRqWbUrBY37GsLA/chicobuarque1966.jpg">imagem </a></p>
+    
+</body>
+
+</html>
