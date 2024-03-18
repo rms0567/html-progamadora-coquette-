@@ -1,1 +1,26 @@
+html
+<head>
+    <style>
+        /* Estilo interno*/
+        body {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="background-color: #f2f2f2; text-align: center;">Iremos apresentar uma <em>biografia</em></h1>
+    <h2 style="color: #3366cc;">Será sobre <strong>Chico Buarque</strong> como o site abaixo</h2>
+    <p style="font-size: 18px;"> Será sobre Chico Buarque <a href="https://s2-g1.glbimg.com/x2gtgiHgjBa_LOyaIzvSHdk33xY=/0x0:1167x894/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/Z/e/1vyGFCRqWbUrBY37GsLA/chicobuarque1966.jpg">imagem </a></p>
+    <img src="imagem.jpg" alt="Ditadura e a influência na música" style="width: 100%;"
+    <h3 style="color: #009933;">Principais realizações de Chico Buarque:</h3>
+    <p style="font-size: 16px;">Aqui estão algumas de suas realizações em formato de lista:</p>
+    <ol style="font-family: 'Times New Roman', serif;">
+        <li>Ganhador de diversos prêmios musicais</li>
+        <li>Autor de inúmeras canções populares no Brasil</li>
+        <li>Reconhecido internacionalmente por suas contribuições para a música e literatura</li>
+    </ol>
+
+
+</body>
 
